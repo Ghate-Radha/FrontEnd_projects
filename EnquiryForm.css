@@ -1,0 +1,290 @@
+body{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: aliceblue;
+}
+.formcontainer{
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    /* margin-bottom:100px ; */
+    width: 60%;
+    height: auto;
+
+}
+
+.Headerpart{
+   display: flex;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+.right{
+    margin-left: 400px;
+    padding: 0%;
+}
+
+.heading{
+    margin-left: 320px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.formcontainer2{
+    border: 2px solid black;
+    margin-top: 0pxpx;
+    margin-bottom:10px;
+    margin-left: 10px;
+     margin-right: 10px;
+
+
+}
+#name{
+    width: 370px;
+}
+#date{
+    width:100px
+}
+#name1{
+    width: 480px;
+}
+#dob{
+    width:285px
+}
+#contact{
+    width:780px
+}
+
+#mobile{
+    width:382px
+}
+#email{
+    width:383px
+}
+#address{
+    width:780px
+}
+#graduation{
+        width:382px
+    }
+    #pg{
+        width:383px
+    }
+    
+    #exp{
+        width: 382px;
+    }
+    #job{
+        width:383px
+    }
+
+    #com{
+        width:382px
+    }
+    #pac{
+        width:383px
+    }
+
+    #res{
+        width:780px
+    }
+    #skill{
+        width: 780px;
+    }
+
+
+    table,th,td{
+        border: 1px solid black;
+        width: 780px;
+        border-collapse: collapse;
+        text-align: left;
+        padding-right: 15px;
+    }
+
+    table,th,td,input{
+        width: 70px;
+
+    }
+    #other{
+        width: 780px;
+    }
+    #other1{
+        width: 780px;
+    }
+    #other2{
+        width: 780px;
+    }
+    .thirteen{
+        width: 780px;
+    }
+
+    .sgn{margin-left: 710px;
+    }
+    
+  /* **********************************************Second half */
+  .container{
+    
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+    /* margin-bottom:100px ; */
+    width: 60%;
+    height: auto;
+
+  }
+  .container.detail
+  {
+    color: aqua
+    margin-left 70px ;
+  }
+
+
+  .containerflex{
+    display: flex;
+  }
+  .B{
+    margin-left: 150px;
+    width:fit-content;
+  }
+  #jobt{
+    width: 150px;
+  }
+  #shift{
+    width:100px
+  }
+
+
+  #time{
+    width: 800px;
+}
+#off{
+    width: 800px;
+}
+#null{width: 800px;}
+
+.Official{
+    margin-left: 300px;
+   
+}
+#cname{width: 800px;}
+
+#date{
+ width: 394px;
+}
+#time{
+width: 394px;
+}
+
+#final{
+    width: 394px;
+   }
+   #demo{
+   width: 394px;
+   }
+
+
+   #mode{
+    width: 150px;
+    margin-top: 10px;
+   }
+   #offl{
+    margin-top: 10px;
+   width: 100px;
+   margin-left: 150px;
+   }
+
+   .containerflex2{
+    display: flex;
+
+  }
+
+
+  #batch{
+    width: 150px;
+   }
+   #batch1{
+   width: 100px;
+   margin-left: 150px;
+   }
+
+   .containerflex3{
+    display: flex;
+
+  }
+
+
+  #day1{
+    width: 150px;
+   }
+   #day2{
+   width: 100px;
+   margin-left: 85px;
+   }
+   #day3{
+    width: 100px;
+    margin-left: 85px;
+    }
+
+   .containerflex4{
+    display: flex;
+
+  }
+
+
+  #pre1{
+    width: 150px;
+   }
+   #pre2{
+   width: 100px;
+   margin-left: 150px;
+   }
+   .containerflexpre
+   {display: flex;}
+
+
+
+
+  #branch1{
+    width: 80px;
+   }
+   #branch2{
+   width: 80px;
+   margin-left: 30px;
+   }
+   #branch3{
+    width: 80px;
+    margin-left: 30px;
+    }
+    #branch4{
+        width: 80px;
+        margin-left: 30px;
+        }
+
+   .containerflex5{
+    display: flex;
+
+  }
+
+
+
+  #faculty{width: 800px;
+margin-top: 10px;}
+
+  .bigcontaier{
+
+        border: 2px solid black;
+        margin-top: 20px;
+        margin-bottom:20px;
+        margin-left: 20px;
+         margin-right: 20px;
+         height: 300px;
+  }
+
+
+  .Detail{
+    margin-left: 300px;
+   
+}
+@media only screen and (max-with:600px){
+   
+}
